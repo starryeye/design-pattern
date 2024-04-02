@@ -17,3 +17,4 @@ designpattern
   - template method
   - observer
   - state
+  - strategy
